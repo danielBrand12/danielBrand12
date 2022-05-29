@@ -16,7 +16,7 @@ Joined Github **3** years ago.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/danielBrand12/).
 - 👾 &nbsp; Fun fact: Python can implement the ‘else’ clause within ‘for’ loop.
 - 📫 &nbsp; How to reach me: danielbrandtaborda@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/danielBrand12/danielBrand12/blob/master/CV-en.pdf).
 
 ### My Absolute Favorites:
 
